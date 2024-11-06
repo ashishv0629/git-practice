@@ -1,0 +1,6 @@
+*.word
+*.a
+/build
+/build/*.txt
+/build/**/*.txt
+
